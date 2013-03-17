@@ -52,9 +52,7 @@
         <input name="Submeter" type="submit" id="enviar" value="Enviar" />
         </label></td>
     </tr>
-    
   </table>
-  
 </form>
 </body>
 <?php include("footer.php"); ?>

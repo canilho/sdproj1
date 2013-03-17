@@ -9,5 +9,4 @@ $conn = mysql_connect($dbhost, $dbuser, $dbpass) or trigger_error (mysql_error()
 $dbname = 'mydb';
 mysql_select_db($dbname);
 
-
 ?>

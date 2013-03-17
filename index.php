@@ -31,7 +31,7 @@ if($count==1)
 
 header("location: universidades.php");
 }
-else 
+else
 {
 $error="Your Login Name or Password is invalid";
 }
